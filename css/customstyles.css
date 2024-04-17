@@ -1,0 +1,11 @@
+.bg-primary{
+background-color: rgb(166, 166, 236) !important;
+}
+
+.text-primary{
+   color: brown !important; 
+}
+
+a{
+    color: rgb(139, 139, 234);
+}

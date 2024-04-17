@@ -1,0 +1,44 @@
+body{
+    font-family:sans-serif;
+    font color: black;
+    background-color: beige;
+   /* background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(254, 253, 253);
+}
+
+img{
+    width: 50%;
+    display: block;
+    /* this is how you comment on the code */
+    border: solid 3px black;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a{
+    color: green;
+}
+
+h3{
+    border: dashed green 2px;
+}
+
+.fav{
+    font-family: sans-serif;
+    color: brown;
+    font-weight: bold;
+    border: slateblue dotted 2px;
+    text-align: center;
+}
+
+/*.fav:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: double;
+    color: black;
+    border: orange;
+}*/
