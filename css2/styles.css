@@ -6,6 +6,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color: navy;
+    
 }
 
 img{
@@ -34,11 +35,3 @@ h3{
     border: slateblue dotted 2px;
     text-align: center;
 }
-
-/*.fav:hover{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    text-decoration: double;
-    color: black;
-    border: orange;
-}*/
